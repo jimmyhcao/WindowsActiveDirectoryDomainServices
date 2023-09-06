@@ -39,10 +39,27 @@ Steps:
 This will give us a sub-OU for the Marketing team. This will include the Marketing team users, who will all have hte same policies applied to them <br/>
 <br/><img src="https://i.imgur.com/26PTGWh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<h3>Creating Users</h3>
+Users are the accounts that people use to log in with. In this section we will create the user <b>Caroline</b> under the <b>Marketing</b> organizational unit we created in the previous section<br />
+
+<br />Steps:
+<li>Click to expand the GC Users organizational unit, right-click Marketing, then New > User. The New Object - User window will appear.
+<li> Enter in user name Caroline into first name field 
+</li>
+<br/><img src="https://i.imgur.com/jHBr2As.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Confirm your selection:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<li>The next screen will have fields for setting Caroline's password and a few password settings for sysadmins to set.
+<li>After clicking Finish, Double-click on the GC Users > Marketing organizational unit (the folder icon), and check to see if the created user, Caroline, in the right pane.</li><br />
+<br /><img src="https://i.imgur.com/wboJhRr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+
+
+
+
+
+
 <br />
 Wait for process to complete (may take some time):  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
