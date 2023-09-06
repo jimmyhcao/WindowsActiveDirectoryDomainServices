@@ -77,10 +77,19 @@ Groups are collections of objects that require authorization to access resources
 <br />Caroline is now part of the Marketing group in our domain. 
 </p>
 
+<h3>Create New Group Policy Object</h3>
+Steps:
+<li>Open <b>Group Policy Management</b> tool
+<li>Click on <b>Tools</b> on the top-right of the window
+<li>Select the <b>Group Policy Management</b> tool
+</li>
+<br /><img src="https://i.imgur.com/uuROXxY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<li>In the Group Policy Management window, click on <b>Forest: GOODCORP.NET</b>. Move through <b>GOODCORP.NET</b>. Right click <b>Group Policy Objects</b> and click <b>New</b>
+</li>
+<br /><img src="https://i.imgur.com/YFLpbNv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 
 
-
-
+ 
 
 
 <!--
