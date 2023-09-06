@@ -19,38 +19,51 @@ Windows Active Directory Domain Services (AD DS) is a critical component of many
 - <b>Windows Server Machine</b> 
 
 <h2>Program walk-through:</h2>
-<h3>Creating Organizational Units</h3>
-<br />
+<h3>Creating Organizational Units(OU)</h3>
 
+OUs are logical groupings of an organization's assets and accounts, used to manage these assets together. For example, all the computers in the Marketing department of a company should be grouped together in an organizational unit (OU). This OU might be called GC Users > Marketing. All of the computers in this OU have the same policy, which is set by the Group Policy.
 
-1. Open Active Directory Users and Computers (ADUC) tool
-
-<li>Right-click GOODCORP.NET, go to New, then Organizational Unit.</li>.<br/>
-<img src="https://i.imgur.com/HMqGfqD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Steps:
+<li>Open Active Directory Users and Computers (ADUC) tool
+<li>Right-click GOODCORP.NET, go to New, then Organizational Unit.
 <li>Name this OU GC Users (short for Good Corp, Inc.)</li>
+<br/>
+<img src="https://i.imgur.com/HMqGfqD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-3. Create the Marketing sub-organizational unit  <br/>
-<li>Right-click GC Users, then click New, then Organizational Unit.</li>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<i>Create the Marketing sub-organizational unit</i>  <br/>
+<li>Right-click GC Users, then click New, then Organizational Unit.
+<li>Name this sub-OU Marketing and click OK.</li><br/>
+<img src="https://i.imgur.com/OGsj2fO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+This will give us a sub-OU for the Marketing team. This will include the Marketing team users, who will all have hte same policies applied to them <br/>
+<br/><img src="https://i.imgur.com/26PTGWh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+
+
+
+
+
+
+
+
+
+
+
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
