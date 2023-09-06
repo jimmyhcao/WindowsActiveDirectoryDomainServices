@@ -52,19 +52,29 @@ Users are the accounts that people use to log in with. In this section we will c
 <li>After clicking Finish, Double-click on the GC Users > Marketing organizational unit (the folder icon), and check to see if the created user, Caroline, in the right pane.</li><br />
 <br /><img src="https://i.imgur.com/wboJhRr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<h3>Creating Groups </h3>
+Groups are collections of objects that require authorization to access resources. Groups are for managing permissions to resources, while organizational units are for linking policies to a set of objects, and for administration purposes. Users can belong to many groups, but are only part of one OU. OUs are organizational tools. <br />
+<br />Steps:
 
 
 
 
 
 
-
-
+<li> Right-click the GC Users > Marketing OU, then go to New, then Group.
+<li> Set the group name to Marketing. Leave group scope as Global and group type as Security. <br />
+<br /><img src="https://i.imgur.com/Aol8RKm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+
+
+
+
+
+
+
+
+
 Sanitization complete:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
