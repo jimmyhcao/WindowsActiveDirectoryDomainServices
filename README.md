@@ -78,9 +78,12 @@ Groups are collections of objects that require authorization to access resources
 <br /><img src="https://i.imgur.com/pC4KF4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 <br />Caroline is now part of the Marketing group in our domain. 
 </p>
+<br/>
+<hr>
 
 <h3>Create New Group Policy Object</h3>
-Steps:
+A Group Policy Object (GPO) is a package of policy settings applied to OUs in our domain. GPOs are the cornerstone of policy management in Active Directory. Multiple Group Policies are often combined into one GPO.<br/>
+<br/>Steps:
 <li>Open <b>Group Policy Management</b> tool
 <li>Click on <b>Tools</b> on the top-right of the window
 <li>Select the <b>Group Policy Management</b> tool
