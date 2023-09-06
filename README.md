@@ -97,12 +97,24 @@ Steps:
 Now that we have created a Group Policy Object, we can not add policies to it to enforce
 <li>Right-click the No Control Panel GPO and click Edit. The Group Policy Management Editor window will open. This is where you select the policies to add to your GPO
 <li>Navigate to User Configuration, then click Policies >  Administrative Templates > Control Panel. On the right-side pane are default policies you can edit
-
 </li>
 
+<br /><img src="https://i.imgur.com/TcCYp7h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 
 
+<li>Double-click the Prohibit access to Control Panel and PC settings policy. It will open the Prohibit access to Control Panel and PC settings window. This policy will deny access to the Control Panel on Windows systems.
+<li>Select Enable, then press Apply > OK.</li>
+<br /><img src="https://i.imgur.com/a1JdsIr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 
+<h3>Link and Apply the Group Policy Object</h3><br/>
+Now that we have created a Group Policy Object and a policy that will deny access to the Control Panel, we can apply the policy to the Sales team OU. <br/>
+<br/>Steps:
+<li>Navigate to the Group Policy Management window so that we can link the Group Policy Objects to the organizational unit.
+<li>With the Group Policy Management window open, move through the following: Group Policy Management > Forest > Domains > GOODCORP.NET > GC Users.
+<li>Right-click the Sales Organizational Unit under GC Users and select Link an Existing GPO.... The Select GPO window will appear.
+</li>
+
+<br /><img src="https://i.imgur.com/oi0QL7p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 
 
 
