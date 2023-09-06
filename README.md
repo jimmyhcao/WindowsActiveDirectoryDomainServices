@@ -56,43 +56,17 @@ Users are the accounts that people use to log in with. In this section we will c
 Groups are collections of objects that require authorization to access resources. Groups are for managing permissions to resources, while organizational units are for linking policies to a set of objects, and for administration purposes. Users can belong to many groups, but are only part of one OU. OUs are organizational tools. <br />
 <br />Steps:
 
-
-
-
-
-
 <li> Right-click the GC Users > Marketing OU, then go to New, then Group.
 <li> Set the group name to Marketing. Leave group scope as Global and group type as Security. <br />
-<br /><img src="https://i.imgur.com/Aol8RKm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+<br /><img src="https://i.imgur.com/Aol8RKm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br /><li>The new group Marketing will now appear in the GC Users > Marketing OU</li>
+<img src="https://i.imgur.com/wnvaojV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br /><i> We can add user Caroline to Marketing now</i>
+<li>Right-click Caroline and go to Add to a group....</li>
 
 
 
-
-
-
-
-
-
-Sanitization complete:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-
-
-
-
-
-
-
-
-
-
-
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PKa5FPe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
