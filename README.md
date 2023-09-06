@@ -67,6 +67,14 @@ Groups are collections of objects that require authorization to access resources
 
 
 <img src="https://i.imgur.com/PKa5FPe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<li> In Select Groups window, type "Marketing" in the "Enter the object names to select" field. <br />
+<br /><img src="https://i.imgur.com/eYZYUZE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Click "Check Names"--if "Marketing" becomes underlined, the system has found the group
+<li>Click OK<br />
+<br /><img src="https://i.imgur.com/pC4KF4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />Caroline is now part of the Marketing group in our domain. 
 </p>
 
 
