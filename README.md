@@ -87,9 +87,23 @@ Steps:
 <li>In the Group Policy Management window, click on <b>Forest: GOODCORP.NET</b>. Move through <b>GOODCORP.NET</b>. Right click <b>Group Policy Objects</b> and click <b>New</b>
 </li>
 <br /><img src="https://i.imgur.com/YFLpbNv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<li>In the New GPO window, type "No Control Panel" for the name.
+<li>Click OK
+</li>
+<br /><img src="https://i.imgur.com/4Gk5fqp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+
+<h3>Add Group Policies to Group Policy Object</h3>
+
+Now that we have created a Group Policy Object, we can not add policies to it to enforce
+<li>Right-click the No Control Panel GPO and click Edit. The Group Policy Management Editor window will open. This is where you select the policies to add to your GPO
+<li>Navigate to User Configuration, then click Policies >  Administrative Templates > Control Panel. On the right-side pane are default policies you can edit
+
+</li>
 
 
- 
+
+
+
 
 
 <!--
