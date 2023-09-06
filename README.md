@@ -116,6 +116,19 @@ Now that we have created a Group Policy Object and a policy that will deny acces
 
 <br /><img src="https://i.imgur.com/oi0QL7p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 
+<i>We can now apply the No Control Panel GPO we created</i>
+<li>Click No Control Panel 
+<li> Click OK
+</li>
+<br /><img src="https://i.imgur.com/n3wQSwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />We have now applied the No Control Panel GPO to the GC Users > Sales OU.
+
+
+
+
+
+
+
 
 
 <!--
