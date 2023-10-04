@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Windows Active Directory Domain Services (AD DS) is a critical component of many organizations' IT infrastructure, serving as the backbone for user authentication, access control, and group policies. With the increasing sophistication of cyber threats and the growing importance of data security, it is imperative to continuously enhance the cybersecurity posture of AD DS. This project aims to deomnstrate how to configure AD DS and complete basic tasks, such as creating Organizational Units, Users, Groups, Group Policies, and Group Policy Objects.<br />
+Windows Active Directory Domain Services (AD DS) is a critical component of many organizations' IT infrastructure, serving as the backbone for user authentication, access control, and group policies. With the increasing sophistication of cyber threats and the growing importance of data security, it is imperative to continuously enhance the cybersecurity posture of AD DS. This project aims to demonstrate how to configure AD DS and complete basic tasks, such as creating Organizational Units, Users, Groups, Group Policies, and Group Policy Objects.<br />
 <br />The following steps illustrates configuration of AD DS for the organization GOODCORP
 
 <h2>Languages and Utilities Used</h2>
